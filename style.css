@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+    color: gray;
+    font-family: Bai jamjuree, sans-serif;
+    display: felix;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    backgtound-color:pink;
+    color:grey;
+    font-family: Bai jamjuree, sans-serif;
+}
